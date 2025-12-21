@@ -3,6 +3,8 @@
 -- A sleek and modern login/registration form interface with smooth animated transitions between panels. 
 -- This project features a dual-panel design where users can seamlessly switch between login and sign-up forms.
 
+#Demo: https://coding-with-rohit-914.github.io/Login-Registration-Form-UI/
+
 🌟 Features
 -- Animated Panel Transitions: Smooth sliding animation between login and registration forms
 -- Responsive Design: Adapts to different screen sizes
@@ -93,5 +95,6 @@ Feel free to fork this project and submit pull requests with improvements. Sugge
 
 📄 License
 This project is open source and available for personal and commercial use.
+
 
     #Note: This is a front-end interface only. Backend integration would be required for actual authentication functionality.
